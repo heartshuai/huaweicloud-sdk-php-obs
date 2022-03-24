@@ -2,7 +2,6 @@
 	"name" : "yxs/huaweicloud-sdk-php-obs",
 	"description" : "huaweicloud-sdk-php-obs-fix",
 	"license":"Apache-2.0",
-	"version":"3.21.6",
 	"require" : {
 		"php" : ">=7.1",
 		"guzzlehttp/guzzle" : "^7.0",
